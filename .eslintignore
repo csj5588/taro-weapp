@@ -1,0 +1,10 @@
+**/iconfont.js
+**/od.js
+*.min.js
+node_modules/
+resource/
+config/
+jsconfig.json
+package.json
+template.js
+yarn.lock
